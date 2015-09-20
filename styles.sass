@@ -5,6 +5,8 @@ $color_red: #f63712
 $color_orange: #ffae00
 $color_dark_grey: #2d2d2d
 $color_blue: #428bca
+$color_black: #000000
+$color_white: #ffffff
 
 $font: Proxima Nova
 
@@ -17,7 +19,6 @@ $font: Proxima Nova
   padding: 0
   padding-bottom: 5px
   border: 3px groove $color_grey
-  overflow: hidden
 
 img 
   padding: 0
@@ -36,13 +37,13 @@ img
   padding-left: 10px
 
 .progress 
-  border: none
+  border-radius: 0
   height: 13px
   background-color: $color_grey
 
 .progress-bar 
   background-color: $color_green
-  border: none
+  border-radius: 0
 
 .progress-info 
   font-family: $font
@@ -97,3 +98,62 @@ i
   font-size: 14px
   color: $color_blue
   padding-left: 10px
+
+
+.bullet 
+  border-radius: 50%
+  background-color: color_muted_grey
+  width: 7px
+  height: 7px
+  padding: 5px
+  margin: 5px 
+
+.menu 
+  list-style-type: none
+  margin-left: -25px
+
+.submenu:focus 
+  outline:none 
+    .show-menu 
+      visibility: visible
+
+.show-menu 
+  visibility: hidden
+  width: 200px
+  height: auto
+  border: 2px solid $color_grey
+  position: absolute
+  z-index: 1
+  margin-top: -35px
+  margin-left: 20px
+  background-color: $color_white
+  box-shadow: 6px 6px 3px $color_grey
+    
+.show-menu  li a 
+  font-family: $font
+  font-size: 18px
+  color: $color_black
+  margin: 0
+
+.info 
+  overflow: hidden
+
+.divider
+  background-color: $color_grey
+  height: 2px
+
+.more-info 
+  clear: both
+
+.title 
+  width: 80%
+  display: inline-block
+
+.submenu 
+  width: 20%
+  float: right
+  display: inline-block
+
+.box 
+  width: 100%
+

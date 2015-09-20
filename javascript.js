@@ -58,8 +58,8 @@ function addTitle(box, title) {
 }
 
 addTitle("#available-course", "Leadership");
-addTitle("#started-course", "Leadership");
-addTitle("#started-course-info", "Leadership");
+addTitle("#started-course", "Leadership Advanced Level");
+addTitle("#started-course-info", "Leadership Komplettkurs");
 addTitle("#finished-course", "Leadership");
 addTitle("#finished-course-submenu", "Leadership");
 
@@ -74,4 +74,21 @@ function addPrice(box, price, color) {
 	$(box).find(".price").append('<span class="' + color + '">' + price + '</span>');
 }
 
-addPrice("#available-course", "54.99 &#8364; / month", "green")
+addPrice("#available-course", "54.99 &#8364; / month", "green");
+
+$('.box').css("max-width",$('img').width());
+
+function addSubmenu(box) {
+	$(box).find(".submenu").append('<ul class="menu"> \ <li class="bullet"></li>\ <li class="bullet"></li>\ <li class="bullet"></li>\ </ul>\
+			      					<div class="show-menu">\
+			      						<ul class="nav nav-tabs nav-stacked">\
+											<li>\ <a>Edit review</a>\ </li>\ <li class="divider"></li>\ <li>\ <a>Download certificate</a>\ </li>\
+											<li class="divider"></li>\ <li>\ <a>Reset progress</a>\ </li>\
+										</ul>\
+									</div>');
+}
+
+addSubmenu("#started-course");
+addSubmenu("#started-course-info");
+addSubmenu("#finished-course");
+addSubmenu("#finished-course-submenu");

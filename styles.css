@@ -1,21 +1,21 @@
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000311}}
 #container {
   margin: 50px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000314}}
 .box {
   width: auto;
   margin: 10px;
   padding: 0;
   padding-bottom: 5px;
   border: 3px groove #d6d6d6;
-  overflow: hidden; }
+}
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000322}}
 img {
   padding: 0; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000325}}
 .more-info {
   height: 40px;
   padding-left: 10px;
@@ -24,24 +24,24 @@ img {
   line-height: 22px 155%;
   font-weight: 400/700; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000333}}
 .info {
   height: 40px;
   padding-top: 15px;
   padding-left: 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000338}}
 .progress {
   border: none;
   height: 13px;
   background-color: #d6d6d6; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000343}}
 .progress-bar {
   background-color: #59a831;
   border: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000347}}
 .progress-info {
   font-family: Proxima Nova;
   font-size: 14px;
@@ -52,7 +52,7 @@ img {
   padding: 0;
   padding: 0 10px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000357}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000357}}
 .rated-count {
   padding-left: 10px;
   font-family: Proxima Nova;
@@ -60,7 +60,7 @@ img {
   line-height: 22px 155%;
   font-weight: 400/700; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000364}}
 .price {
   padding-left: 10px;
   font-family: Proxima Nova;
@@ -68,24 +68,24 @@ img {
   line-height: 22px 155%;
   font-weight: 400/700; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000371}}
 .gray {
   color: #9f9f9f; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000374}}
 .red {
   color: #f63712; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000377}}
 .green {
   color: #59a831; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000380}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000380}}
 i {
   padding-left: 3px;
   color: #ffae00; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000384}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000384}}
 .title {
   height: 80px;
   font-family: Proxima Nova;
@@ -97,7 +97,7 @@ i {
   overflow: hidden;
   text-overflow: ellipsis; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework2\/styles\.sass}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Tanya\/Desktop\/GridFramework\/styles\.sass}line{font-family:\0000395}}
 .text {
   font-family: Proxima Nova;
   font-size: 14px;
@@ -105,3 +105,72 @@ i {
   padding-left: 10px; }
 
 /*# sourceMappingURL=styles.css.map */
+
+.bullet {
+    border-radius: 50%;
+    background-color: #9f9f9f;
+    width: 7px;
+    height: 7px;
+    padding: 5px;
+    margin: 5px; 
+}
+
+.menu {
+  list-style-type: none;
+  margin-left: -25px;
+}
+
+.submenu:focus .show-menu {
+    visibility: visible;
+  }
+
+.submenu:focus {
+  outline:none;
+}
+
+.show-menu {
+  visibility: hidden;
+  width: 200px;
+  height: auto;
+  border: 2px solid #d6d6d6;
+  position: absolute;
+  z-index:1;
+  margin-top: -35px;
+  margin-left: 20px;
+  background-color: white;
+  box-shadow: 6px 6px 3px #d6d6d6; }
+
+  .show-menu li a {
+    font-family: Proxima Nova;
+    font-size: 18px;
+    color: #000000;
+    margin: 0;
+}
+
+.info {
+  overflow: hidden;
+}
+
+.divider{
+  background-color: #d6d6d6;
+  height: 2px;
+}
+
+.more-info {
+  clear: both;
+}
+
+.title {
+  width: 80%;
+  display: inline-block;
+}
+
+.submenu {
+  width: 20%;
+  float: right;
+  display: inline-block;
+}
+
+.box {
+  width: 100%;
+}
